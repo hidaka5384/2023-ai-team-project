@@ -1,0 +1,6 @@
+classes = 3
+train = ../yolov4-tiny/train.txt
+valid = ../yolov4-tiny/val.txt
+names = ../yolov4-tiny/yolov4_tiny_vegetable.names
+backup = ../yolov4-tiny/backup
+eval = ../yolov4-tiny/eval
