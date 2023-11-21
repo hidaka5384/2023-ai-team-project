@@ -1,0 +1,6 @@
+classes = 3
+train = ../vegetable/train.txt
+valid = ../vegetable/val.txt
+names = ../vegetable/yolov4_vegetable.names
+backup = ../vegetable/backup
+eval = ../vegetable/eval
